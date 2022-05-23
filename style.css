@@ -1,0 +1,11 @@
+container-fluid-1{
+  background-color:Gainsboro;
+}
+body {
+  background-image: url("gray.jpg");
+}
+h1 {
+  font-family: serif;
+  text-shadow: 200px;
+  text-align: center;
+}
